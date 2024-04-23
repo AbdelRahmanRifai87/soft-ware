@@ -6,5 +6,5 @@ cout<<"ana ahmad"<<endl;
     int a=10;
     int b=10;
     int sum=a+b;
-
+//do you know that c is the mother of languages?
 }
